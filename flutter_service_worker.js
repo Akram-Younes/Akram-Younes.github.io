@@ -3,9 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "9a38c687dffd2a5a9a891644d0851b62",
-"assets/AssetManifest.bin.json": "72f38f524d8540e1891d21251392e7ff",
-"assets/AssetManifest.json": "015957267b21f14f736a951bee8576c4",
+const RESOURCES = {"assets/AssetManifest.bin": "1819f3c56088fefa6bb6c48c19d10f4c",
+"assets/AssetManifest.bin.json": "9529e6f6fdf29fc498a6d070aefdc1d1",
+"assets/AssetManifest.json": "b3e4f6d0d7f9b4b9c87fe81860a5b95e",
+"assets/assets/gifs/baby.gif": "17fa24b1949aa2e5fbc3305044ae542f",
+"assets/assets/gifs/cadeaux.gif": "68017a41f2fd3ded3b9bdf431863ceb8",
+"assets/assets/gifs/informatique.gif": "4b126d258266b57f8c8e096c45f7f06a",
+"assets/assets/gifs/maison.gif": "3a4b3c1b031cbacfda71ad9c11b92399",
+"assets/assets/gifs/makeup.gif": "7092c274082265407569240337638f4c",
 "assets/assets/icons/baby.jpg": "72b9f37ea25b7f070d6e6c8897e2a045",
 "assets/assets/icons/baby.png": "4ac38b6ccb5616b2d084892109008cf5",
 "assets/assets/icons/gift.jpg": "3c5b11f95dede5fbd3b1fa72f072a2aa",
@@ -62,9 +67,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "9a38c687dffd2a5a9a891644d0851b62
 "icons/ms-icon-150x150.png": "73fc4792867a000be43ac6a8165cfe81",
 "icons/ms-icon-310x310.png": "50b6f469b729cfc4a715d729fb23f3e3",
 "icons/ms-icon-70x70.png": "a33d325266de481975108c6c95ba9bc6",
-"index.html": "2082d6a52c16916634eb6271372a1c20",
-"/": "2082d6a52c16916634eb6271372a1c20",
-"main.dart.js": "4b974552e3096b118d6b041f42f42d7a",
+"index.html": "4cb172ea151bb2c96d9238e3eb8325f0",
+"/": "4cb172ea151bb2c96d9238e3eb8325f0",
+"main.dart.js": "23a5e3442293af3455237b87f11da88c",
 "manifest.json": "3599a2e2f6add424add6e0953fa644b4",
 "version.json": "54b4a53e8939524c299328579f4114ef"};
 // The application shell files that are downloaded before a service worker can
